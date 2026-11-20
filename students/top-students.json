@@ -1,0 +1,24 @@
+{
+  "students": [
+    {
+      "rank": 1,
+      "name": "Aarav Sharma",
+      "percentage": 98.6,
+      "class": 12,
+      "photo": "https://sjdgic.rf.gd/cdn/top-students-ranking/12/a.png"
+    },
+    {
+      "rank": 2,
+      "name": "Diya Verma",
+      "percentage": 97.9,
+      "class": 10,
+      "photo": "https://sjdgic.rf.gd/cdn/top-students-ranking/10/a.png"
+    },
+    {
+      "rank": 3,
+      "name": "Ishaan Gupta",
+      "percentage": 97.5,
+      "class": 12
+    }
+  ]
+}
