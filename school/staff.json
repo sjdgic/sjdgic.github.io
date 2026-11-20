@@ -1,0 +1,35 @@
+{
+  "principal": {
+    "name": "RamKumar Pal",
+    "title": "Principal",
+    "role": "Principal",
+    "imageId": "a"
+  },
+  "featured": {
+    "name": "Veer Singh Pal",
+    "role": "NCC",
+    "imageId": "b"
+  },
+  "staff": [
+    {
+      "name": "Neeraj Sharma",
+      "role": "Math",
+      "imageId": "c"
+    },
+    {
+      "name": "Mukesh Kumar",
+      "role": "Math",
+      "imageId": "d"
+    },
+    {
+      "name": "Shiv Kumar",
+      "role": "English, Hindi",
+      "imageId": "e"
+    },
+    {
+      "name": "Sandeep Kumar",
+      "role": "English, Science",
+      "imageId": "f"
+    }
+  ]
+}
